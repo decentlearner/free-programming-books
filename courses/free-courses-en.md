@@ -352,6 +352,7 @@
 * [Clojure Tutorial](https://www.youtube.com/watch?v=ciGyHkDuPAE) - Derek Banas
 * [Functional Programming with Clojure](http://mooc.fi/courses/2014/clojure/)
 * [Poetry of Programming - Clojure for Beginners](https://youtube.com/playlist?list=PLI-mrGTUXmHXeKhy6UGdDxIKwM8L4MTbq) - Attila EGRI-NAGY
+* [the Clojure language](https://www.youtube.com/playlist?list=PLAC43CFB134E85266) - Brian Will
 
 
 ### Cloud Computing
